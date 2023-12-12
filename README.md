@@ -22,6 +22,8 @@ The Recipe Search Website is a platform that allows users to search and explore 
 
 ## Demo
 
+Find the live website at: https://kirtikhare.github.io/jsd-final-project/
+
 ## Installation
 
 Follow these steps to install the website locally on your system:
