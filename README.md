@@ -64,14 +64,17 @@ git clone https://github.com/kirtikhare/jsd-final-project.git
 
 ## Development
 
+|*Home page wireframe planning*|
+|:-:|
 ![Home page](/screenshots/wireframe_home.png)
-*Home page wireframe planning*
 
+|*Recipe page wireframe planning*|
+|:-:|
 ![Recipe page](/screenshots/wireframe_recpie.png)
-*Recipe page wireframe planning*
 
+|*Search page wireframe planning*|
+|:-:|
 ![Search page](/screenshots/wireframe_search.png)
-*Search page wireframe planning*
 
 ## Contributing
 
