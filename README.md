@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-Introduction
-Features
-Demo
-Installation
-Usage
-Contribution
+- Introduction
+- Features
+- Demo
+- Installation
+- Usage
+- Contribution
 
 ## Introduction
 
