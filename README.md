@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-- [Introduction] (#introduction)
-- [Features] (#features)
-- [Demo] (#demo)
-- [Installation] (#installation)
-- [Usage] (#usage)
-- [Contribution] (#contribution)
+Introduction
+Features
+Demo
+Installation
+Usage
+Contribution
 
 ## Introduction
 
@@ -29,7 +29,7 @@ Follow these steps to install the website locally on your system:
 1. Clone the files from repository using the git pull command
 
 ```bash
-git clone 
+git clone https://github.com/kirtikhare/jsd-final-project.git
 ```
 
 2. Ensure that the structure of the local directory is the same as the repository
