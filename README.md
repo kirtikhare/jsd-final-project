@@ -26,7 +26,7 @@ The Recipe Search Website is a platform that allows users to search and explore 
 
 Follow these steps to install the website locally on your system:
 
-1. Clone the files from repository using the git pull command
+1. Clone the files from repository using the git clone command
 
 ```bash
 git clone https://github.com/kirtikhare/jsd-final-project.git
