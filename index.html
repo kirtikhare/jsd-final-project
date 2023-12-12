@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500&display=swap" rel="styles">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prep Search</title>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script src="main/main.js" defer></script>
+</head>
+<body>
+  <button onclick="loadHome()" id="homeButton">Home</button>
+  <h1>Recipe Search</h1>
+  <div id="searchType">
+    <button onclick="switchToName()" class="searchTypeButton" id="searchTypeName" activated="true">Name</button>
+    <button onclick="switchToArea()" class="searchTypeButton" id="searchTypeArea" activated="false">Cuisine</button>
+    <button onclick="switchToCat()" class="searchTypeButton" id="searchTypeCat" activated="false">Category</button>
+  </div>
+  <form id="searchForm">
+    <input type="text" placeholder="search by recipe name" id="search">
+    <button>Search</button>
+  </form>
+
+  <div class="hidden" id="areaList">
+  </div>
+
+  <div class="hidden" id="catList">
+  </div>
+
+  <div id="random">
+    <div id="container">
+    </div>
+  </div>
+  
+  <div id="results" class="hidden"></div>
+
+  <div id="details" class="hidden"></div>
+</body>
+</html>
