@@ -38,23 +38,29 @@ git clone https://github.com/kirtikhare/jsd-final-project.git
 
 ## Usage
 
+|*Search recipe by name*|
+|:-:|
 ![Search by name](/screenshots/search_name.PNG)
-*Search recipe by name*
 
+|*Find intereseting recipes*|
+|:-:|
 ![Find interesting recipes](/screenshots/find_intresting_recipe.PNG)
-*Find intereseting recipes*
 
+|*Explore different cuisines*|
+|:-:|
 ![Explore different cuisines](/screenshots/search_tagCuisine.PNG)
-*Explore different cuisines*
 
+|*Find food from all over the world*|
+|:-:|
 ![Different cuisines from around the world](/screenshots/search_tagCuisine_british.PNG)
-*Find food from all over the world*
 
+|*Find recipes based on ingredients and types*|
+|:-:|
 ![Look based on ingredients](/screenshots/search_tagCat.PNG)
-*Find recipes based on ingredients and types*
 
+|*Vegetarian options available as well*|
+|:-:|
 ![Vegetarian and non-vegetarian options](/screenshots/search_tagCat_chicken.PNG)
-*Vegetarian options available as well*
 
 ## Development
 
